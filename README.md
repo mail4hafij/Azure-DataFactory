@@ -1,7 +1,7 @@
 # Azure-DataFactory
 A simple data factory pipeline examples
 
-## Todo
+## TODO
 
 ### Example - Blob storage to SQL database using Copy Data activity
 
